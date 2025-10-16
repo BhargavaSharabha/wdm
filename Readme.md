@@ -18,7 +18,7 @@ cd wdm-group-project
 
 Once you've cloned the repository, switch to the frontend branch:
 
-```
+```bash
 git checkout frontend
 ```
 
